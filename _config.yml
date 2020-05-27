@@ -1,7 +1,7 @@
 # Site settings
 title: Personal Website
 description: 
-baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://dyang5.github.io/particle/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
